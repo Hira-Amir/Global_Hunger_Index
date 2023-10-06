@@ -16,8 +16,8 @@ These scores place a country along a severity scale:
 - Alarming = 35.0 - 49.9
 - Extremely alarming = less than or equal to 50.0
 
-![GHI_2022](https://github.com/Hira-Amir/Global_Hunger_Index/blob/main/Map.png)
-![GHI_2022](https://github.com/Hira-Amir/Global_Hunger_Index/blob/main/score.png)
+![GHI_2022](https://github.com/Hira-Amir/Global_Hunger_Index/blob/main/Images/Map.png)
+![GHI_2022](https://github.com/Hira-Amir/Global_Hunger_Index/blob/main/Images/score.png)
 
 ## 3_Real World Questionnaire
 
@@ -29,7 +29,7 @@ Total we have 136 countries in our dataset , out of which 42 countries have reac
 
 2052 - Mean of all country's GHI will zero
 
-![GHI_2022](https://github.com/Hira-Amir/Global_Hunger_Index/blob/main/2052.png)
+![GHI_2022](https://github.com/Hira-Amir/Global_Hunger_Index/blob/main/Images/2052.png)
 
 ### Question_3 : Let us see the impact of these 4 parameters (Child mortality, Under-nourishment, Child stunting and Child wasting) on the Global Hunger Index (GHI).
 
