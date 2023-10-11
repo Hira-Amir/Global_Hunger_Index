@@ -8,29 +8,24 @@ The Global Hunger Index (GHI) is calculated based on 4 parameters, which are
 - Child stunting
 - Child wasting
 
-These scores place a country along a severity scale:
+## Technical Specification
+Programming Language
+- Python 
 
-- Low = less than or equal to 9.9
-- Moderate = 10.0 - 19.9
-- Serious = 20.0 - 34.9
-- Alarming = 35.0 - 49.9
-- Extremely alarming = less than or equal to 50.0
+Libraries Used 
+- Numpy
+- Pandas
+- Matplotlib.pyplot (matplotlib)
+- Seaborn
+- Sklearn
 
-![GHI_2022](https://github.com/Hira-Amir/Global_Hunger_Index/blob/main/Images/Map.png)
-![GHI_2022](https://github.com/Hira-Amir/Global_Hunger_Index/blob/main/Images/score.png)
+Analysis Techniques
+- Modeling
+- Statistical Analysis
 
-## 3_Real World Questionnaire
+Model Used
 
-### Question_1 : The UN target is to achieve a GHI of 18.2 for all countries. How many countries are above the target in 2023?
+- Linear Regression Model
 
-Total we have 136 countries in our dataset , out of which 42 countries have reached the target of achieving GHI above than 18.2 in 2023.
-
-### Question_2 : For the UN to reach the target the mean of all country's GHI will be close to zero or zero. Predict when?
-
-2052 - Mean of all country's GHI will zero
-
-![GHI_2022](https://github.com/Hira-Amir/Global_Hunger_Index/blob/main/Images/2052.png)
-
-### Question_3 : Let us see the impact of these 4 parameters (Child mortality, Under-nourishment, Child stunting and Child wasting) on the Global Hunger Index (GHI).
-
-Using the linear Regression Model , we have predicted that the Child Wasting has the highest weight on GHI than other parameters
+  
+  
